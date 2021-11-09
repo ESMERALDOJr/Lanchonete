@@ -1,0 +1,25 @@
+  body {
+      background-color: #7db7f8;
+  }
+  
+  legend {
+      font-weight: bold;
+  }
+  
+  fieldset {
+      background-color: #e4fdff;
+  }
+  
+  .observacoes textarea {
+      resize: none;
+  }
+  
+  .dados textarea {
+      resize: ;
+  }
+  
+  # @media screen and (max-width: 601px) {
+      body {
+          background-color: lightblue;
+      }
+  }
